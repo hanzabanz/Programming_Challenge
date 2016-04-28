@@ -1,0 +1,12 @@
+Surname,First Name(s),Sex (M/F),Age,Place of birth,Allergies
+Doe,John,M,34,USA,None,
+Doe,Jane,F,35,USA,None,
+O'Malley,Patrick Steven,M,60,Ireland,Nuts,
+Smith,John,M,10,London,Penicillin,Nuts
+Brown,John,M,11,London,Nuts,
+Plum,Professor,M,70,Not given,Wasps,
+Green,Reverend,M,-,Not given,Penicillin,
+Doll,Barbie,F,-,Not given,None,
+Marion,Maid,F,23,Sherwood Forrest,Nuts,Acorns
+Tuck,Friar,M,54,Nottingham,Nuts,
+Mole,Adrian,M,13.25,Leicester,Reality,

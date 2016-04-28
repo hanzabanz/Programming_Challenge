@@ -1,0 +1,18 @@
+There are 8 males patients and 3 female patients.
+
+The male patients are
+John Brown, Age 11
+John Doe, Age 34
+Reverend Green, Age -
+Adrian Mole, Age 13.25
+Patrick Steven O'Malley, Age 60
+Professor Plum, Age 70
+John Smith, Age 10
+Friar Tuck, Age 54
+The average age of the male patients is 35
+
+The female patients are
+Jane Doe, Age 35
+Barbie Doll, Age -
+Maid Marion, Age 23
+The average age of the female patients is 29

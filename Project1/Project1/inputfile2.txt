@@ -1,0 +1,7 @@
+Place of birth,Sex (M/F),First Name(s),Surname,Age,Date of Birth,Allergies
+France,M,Claude,Pierre,34,4/02/1981,None
+Spain,M,Pablo,Marcello,35,21/06/1980,Grass Seed
+Italy,M,Pietro,Giovani,60,14/02/1955,Pollen
+England,M,Andrew,Arnold,10,29/07/2005,Dust
+#Unknown,M,John,Doe,11,10/01/2004,Dust
+Spain,M,Salvodar,Sebastian,70,11/03/1945,None
